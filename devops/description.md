@@ -19,14 +19,14 @@ landscape and not be afraid to propose new solutions. We encourage our people to
 always challenge the status quo and welcome any suggestion that will help us 
 improve and make our services safer, faster and more efficient.
 
-Key focus points for this position are:
-
-## Security
+### Key focus points for this position are:
+- Security
 - High availability/zero downtime
 - Focus on automation
 - Low maintenance infrastructure
 - Continuous integration/Continuous Development
-- Your primary tasks and deliverables are
+
+## Your primary tasks and deliverables are
 - Work with cross-functional teams
 - Manage and develop on our new micro-service driven platform
 - Drive our journey towards a cloud driven landscape
